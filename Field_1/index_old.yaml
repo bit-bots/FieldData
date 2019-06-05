@@ -2,31 +2,31 @@
   checkpoint: 0
   path: 0/0/image_4095.png
   row: 0
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 0
   path: 0/0/image_3840.png
   row: 0
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 0
   path: 0/0/image_3584.png
   row: 0
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 0
   path: 0/0/image_3328.png
   row: 0
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 0
   path: 0/0/image_3072.png
   row: 0
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 0
   path: 0/0/image_2816.png
   row: 0
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 0
   path: 0/0/image_2560.png
   row: 0
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 0
   path: 0/0/image_2304.png
   row: 0
@@ -34,31 +34,31 @@
   checkpoint: 0
   path: 0/0/image_2048.png
   row: 0
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 0
   path: 0/0/image_1792.png
   row: 0
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 0
   path: 0/0/image_1536.png
   row: 0
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 0
   path: 0/0/image_1280.png
   row: 0
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 0
   path: 0/0/image_1024.png
   row: 0
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 0
   path: 0/0/image_768.png
   row: 0
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 0
   path: 0/0/image_512.png
   row: 0
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 0
   path: 0/0/image_256.png
   row: 0
@@ -66,31 +66,31 @@
   checkpoint: 1
   path: 0/1/image_4095.png
   row: 0
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 1
   path: 0/1/image_3840.png
   row: 0
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 1
   path: 0/1/image_3584.png
   row: 0
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 1
   path: 0/1/image_3328.png
   row: 0
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 1
   path: 0/1/image_3072.png
   row: 0
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 1
   path: 0/1/image_2816.png
   row: 0
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 1
   path: 0/1/image_2560.png
   row: 0
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 1
   path: 0/1/image_2304.png
   row: 0
@@ -98,31 +98,31 @@
   checkpoint: 1
   path: 0/1/image_2048.png
   row: 0
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 1
   path: 0/1/image_1792.png
   row: 0
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 1
   path: 0/1/image_1536.png
   row: 0
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 1
   path: 0/1/image_1280.png
   row: 0
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 1
   path: 0/1/image_1024.png
   row: 0
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 1
   path: 0/1/image_768.png
   row: 0
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 1
   path: 0/1/image_512.png
   row: 0
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 1
   path: 0/1/image_256.png
   row: 0
@@ -130,31 +130,31 @@
   checkpoint: 2
   path: 0/2/image_4095.png
   row: 0
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 2
   path: 0/2/image_3840.png
   row: 0
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 2
   path: 0/2/image_3584.png
   row: 0
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 2
   path: 0/2/image_3328.png
   row: 0
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 2
   path: 0/2/image_3072.png
   row: 0
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 2
   path: 0/2/image_2816.png
   row: 0
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 2
   path: 0/2/image_2560.png
   row: 0
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 2
   path: 0/2/image_2304.png
   row: 0
@@ -162,31 +162,31 @@
   checkpoint: 2
   path: 0/2/image_2048.png
   row: 0
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 2
   path: 0/2/image_1792.png
   row: 0
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 2
   path: 0/2/image_1536.png
   row: 0
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 2
   path: 0/2/image_1280.png
   row: 0
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 2
   path: 0/2/image_1024.png
   row: 0
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 2
   path: 0/2/image_768.png
   row: 0
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 2
   path: 0/2/image_512.png
   row: 0
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 2
   path: 0/2/image_256.png
   row: 0
@@ -194,31 +194,31 @@
   checkpoint: 3
   path: 0/3/image_4095.png
   row: 0
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 3
   path: 0/3/image_3840.png
   row: 0
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 3
   path: 0/3/image_3584.png
   row: 0
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 3
   path: 0/3/image_3328.png
   row: 0
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 3
   path: 0/3/image_3072.png
   row: 0
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 3
   path: 0/3/image_2816.png
   row: 0
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 3
   path: 0/3/image_2560.png
   row: 0
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 3
   path: 0/3/image_2304.png
   row: 0
@@ -226,31 +226,31 @@
   checkpoint: 3
   path: 0/3/image_2048.png
   row: 0
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 3
   path: 0/3/image_1792.png
   row: 0
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 3
   path: 0/3/image_1536.png
   row: 0
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 3
   path: 0/3/image_1280.png
   row: 0
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 3
   path: 0/3/image_1024.png
   row: 0
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 3
   path: 0/3/image_768.png
   row: 0
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 3
   path: 0/3/image_512.png
   row: 0
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 3
   path: 0/3/image_256.png
   row: 0
@@ -258,31 +258,31 @@
   checkpoint: 4
   path: 0/4/image_4095.png
   row: 0
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 4
   path: 0/4/image_3840.png
   row: 0
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 4
   path: 0/4/image_3584.png
   row: 0
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 4
   path: 0/4/image_3328.png
   row: 0
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 4
   path: 0/4/image_3072.png
   row: 0
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 4
   path: 0/4/image_2816.png
   row: 0
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 4
   path: 0/4/image_2560.png
   row: 0
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 4
   path: 0/4/image_2304.png
   row: 0
@@ -290,31 +290,31 @@
   checkpoint: 4
   path: 0/4/image_2048.png
   row: 0
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 4
   path: 0/4/image_1792.png
   row: 0
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 4
   path: 0/4/image_1536.png
   row: 0
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 4
   path: 0/4/image_1280.png
   row: 0
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 4
   path: 0/4/image_1024.png
   row: 0
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 4
   path: 0/4/image_768.png
   row: 0
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 4
   path: 0/4/image_512.png
   row: 0
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 4
   path: 0/4/image_256.png
   row: 0
@@ -322,31 +322,31 @@
   checkpoint: 5
   path: 0/5/image_4095.png
   row: 0
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 5
   path: 0/5/image_3840.png
   row: 0
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 5
   path: 0/5/image_3584.png
   row: 0
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 5
   path: 0/5/image_3328.png
   row: 0
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 5
   path: 0/5/image_3072.png
   row: 0
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 5
   path: 0/5/image_2816.png
   row: 0
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 5
   path: 0/5/image_2560.png
   row: 0
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 5
   path: 0/5/image_2304.png
   row: 0
@@ -354,31 +354,31 @@
   checkpoint: 5
   path: 0/5/image_2048.png
   row: 0
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 5
   path: 0/5/image_1792.png
   row: 0
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 5
   path: 0/5/image_1536.png
   row: 0
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 5
   path: 0/5/image_1280.png
   row: 0
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 5
   path: 0/5/image_1024.png
   row: 0
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 5
   path: 0/5/image_768.png
   row: 0
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 5
   path: 0/5/image_512.png
   row: 0
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 5
   path: 0/5/image_256.png
   row: 0
@@ -386,31 +386,31 @@
   checkpoint: 6
   path: 0/6/image_4095.png
   row: 0
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 6
   path: 0/6/image_3840.png
   row: 0
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 6
   path: 0/6/image_3584.png
   row: 0
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 6
   path: 0/6/image_3328.png
   row: 0
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 6
   path: 0/6/image_3072.png
   row: 0
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 6
   path: 0/6/image_2816.png
   row: 0
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 6
   path: 0/6/image_2560.png
   row: 0
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 6
   path: 0/6/image_2304.png
   row: 0
@@ -418,31 +418,31 @@
   checkpoint: 6
   path: 0/6/image_2048.png
   row: 0
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 6
   path: 0/6/image_1792.png
   row: 0
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 6
   path: 0/6/image_1536.png
   row: 0
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 6
   path: 0/6/image_1280.png
   row: 0
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 6
   path: 0/6/image_1024.png
   row: 0
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 6
   path: 0/6/image_768.png
   row: 0
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 6
   path: 0/6/image_512.png
   row: 0
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 6
   path: 0/6/image_256.png
   row: 0
@@ -450,31 +450,31 @@
   checkpoint: 0
   path: 1/0/image_4095.png
   row: 1
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 0
   path: 1/0/image_3840.png
   row: 1
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 0
   path: 1/0/image_3584.png
   row: 1
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 0
   path: 1/0/image_3328.png
   row: 1
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 0
   path: 1/0/image_3072.png
   row: 1
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 0
   path: 1/0/image_2816.png
   row: 1
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 0
   path: 1/0/image_2560.png
   row: 1
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 0
   path: 1/0/image_2304.png
   row: 1
@@ -482,31 +482,31 @@
   checkpoint: 0
   path: 1/0/image_2048.png
   row: 1
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 0
   path: 1/0/image_1792.png
   row: 1
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 0
   path: 1/0/image_1536.png
   row: 1
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 0
   path: 1/0/image_1280.png
   row: 1
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 0
   path: 1/0/image_1024.png
   row: 1
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 0
   path: 1/0/image_768.png
   row: 1
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 0
   path: 1/0/image_512.png
   row: 1
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 0
   path: 1/0/image_256.png
   row: 1
@@ -514,31 +514,31 @@
   checkpoint: 1
   path: 1/1/image_4095.png
   row: 1
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 1
   path: 1/1/image_3840.png
   row: 1
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 1
   path: 1/1/image_3584.png
   row: 1
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 1
   path: 1/1/image_3328.png
   row: 1
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 1
   path: 1/1/image_3072.png
   row: 1
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 1
   path: 1/1/image_2816.png
   row: 1
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 1
   path: 1/1/image_2560.png
   row: 1
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 1
   path: 1/1/image_2304.png
   row: 1
@@ -546,31 +546,31 @@
   checkpoint: 1
   path: 1/1/image_2048.png
   row: 1
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 1
   path: 1/1/image_1792.png
   row: 1
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 1
   path: 1/1/image_1536.png
   row: 1
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 1
   path: 1/1/image_1280.png
   row: 1
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 1
   path: 1/1/image_1024.png
   row: 1
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 1
   path: 1/1/image_768.png
   row: 1
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 1
   path: 1/1/image_512.png
   row: 1
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 1
   path: 1/1/image_256.png
   row: 1
@@ -578,31 +578,31 @@
   checkpoint: 2
   path: 1/2/image_4095.png
   row: 1
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 2
   path: 1/2/image_3840.png
   row: 1
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 2
   path: 1/2/image_3584.png
   row: 1
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 2
   path: 1/2/image_3328.png
   row: 1
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 2
   path: 1/2/image_3072.png
   row: 1
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 2
   path: 1/2/image_2816.png
   row: 1
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 2
   path: 1/2/image_2560.png
   row: 1
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 2
   path: 1/2/image_2304.png
   row: 1
@@ -610,31 +610,31 @@
   checkpoint: 2
   path: 1/2/image_2048.png
   row: 1
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 2
   path: 1/2/image_1792.png
   row: 1
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 2
   path: 1/2/image_1536.png
   row: 1
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 2
   path: 1/2/image_1280.png
   row: 1
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 2
   path: 1/2/image_1024.png
   row: 1
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 2
   path: 1/2/image_768.png
   row: 1
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 2
   path: 1/2/image_512.png
   row: 1
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 2
   path: 1/2/image_256.png
   row: 1
@@ -642,31 +642,31 @@
   checkpoint: 3
   path: 1/3/image_4095.png
   row: 1
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 3
   path: 1/3/image_3840.png
   row: 1
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 3
   path: 1/3/image_3584.png
   row: 1
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 3
   path: 1/3/image_3328.png
   row: 1
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 3
   path: 1/3/image_3072.png
   row: 1
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 3
   path: 1/3/image_2816.png
   row: 1
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 3
   path: 1/3/image_2560.png
   row: 1
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 3
   path: 1/3/image_2304.png
   row: 1
@@ -674,31 +674,31 @@
   checkpoint: 3
   path: 1/3/image_2048.png
   row: 1
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 3
   path: 1/3/image_1792.png
   row: 1
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 3
   path: 1/3/image_1536.png
   row: 1
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 3
   path: 1/3/image_1280.png
   row: 1
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 3
   path: 1/3/image_1024.png
   row: 1
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 3
   path: 1/3/image_768.png
   row: 1
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 3
   path: 1/3/image_512.png
   row: 1
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 3
   path: 1/3/image_256.png
   row: 1
@@ -706,31 +706,31 @@
   checkpoint: 4
   path: 1/4/image_4095.png
   row: 1
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 4
   path: 1/4/image_3840.png
   row: 1
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 4
   path: 1/4/image_3584.png
   row: 1
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 4
   path: 1/4/image_3328.png
   row: 1
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 4
   path: 1/4/image_3072.png
   row: 1
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 4
   path: 1/4/image_2816.png
   row: 1
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 4
   path: 1/4/image_2560.png
   row: 1
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 4
   path: 1/4/image_2304.png
   row: 1
@@ -738,31 +738,31 @@
   checkpoint: 4
   path: 1/4/image_2048.png
   row: 1
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 4
   path: 1/4/image_1792.png
   row: 1
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 4
   path: 1/4/image_1536.png
   row: 1
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 4
   path: 1/4/image_1280.png
   row: 1
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 4
   path: 1/4/image_1024.png
   row: 1
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 4
   path: 1/4/image_768.png
   row: 1
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 4
   path: 1/4/image_512.png
   row: 1
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 4
   path: 1/4/image_256.png
   row: 1
@@ -770,31 +770,31 @@
   checkpoint: 5
   path: 1/5/image_4095.png
   row: 1
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 5
   path: 1/5/image_3840.png
   row: 1
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 5
   path: 1/5/image_3584.png
   row: 1
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 5
   path: 1/5/image_3328.png
   row: 1
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 5
   path: 1/5/image_3072.png
   row: 1
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 5
   path: 1/5/image_2816.png
   row: 1
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 5
   path: 1/5/image_2560.png
   row: 1
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 5
   path: 1/5/image_2304.png
   row: 1
@@ -802,31 +802,31 @@
   checkpoint: 5
   path: 1/5/image_2048.png
   row: 1
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 5
   path: 1/5/image_1792.png
   row: 1
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 5
   path: 1/5/image_1536.png
   row: 1
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 5
   path: 1/5/image_1280.png
   row: 1
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 5
   path: 1/5/image_1024.png
   row: 1
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 5
   path: 1/5/image_768.png
   row: 1
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 5
   path: 1/5/image_512.png
   row: 1
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 5
   path: 1/5/image_256.png
   row: 1
@@ -834,31 +834,31 @@
   checkpoint: 6
   path: 1/6/image_4095.png
   row: 1
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 6
   path: 1/6/image_3840.png
   row: 1
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 6
   path: 1/6/image_3584.png
   row: 1
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 6
   path: 1/6/image_3328.png
   row: 1
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 6
   path: 1/6/image_3072.png
   row: 1
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 6
   path: 1/6/image_2816.png
   row: 1
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 6
   path: 1/6/image_2560.png
   row: 1
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 6
   path: 1/6/image_2304.png
   row: 1
@@ -866,31 +866,31 @@
   checkpoint: 6
   path: 1/6/image_2048.png
   row: 1
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 6
   path: 1/6/image_1792.png
   row: 1
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 6
   path: 1/6/image_1536.png
   row: 1
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 6
   path: 1/6/image_1280.png
   row: 1
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 6
   path: 1/6/image_1024.png
   row: 1
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 6
   path: 1/6/image_768.png
   row: 1
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 6
   path: 1/6/image_512.png
   row: 1
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 6
   path: 1/6/image_256.png
   row: 1
@@ -898,31 +898,31 @@
   checkpoint: 0
   path: 2/0/image_4095.png
   row: 2
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 0
   path: 2/0/image_3840.png
   row: 2
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 0
   path: 2/0/image_3584.png
   row: 2
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 0
   path: 2/0/image_3328.png
   row: 2
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 0
   path: 2/0/image_3072.png
   row: 2
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 0
   path: 2/0/image_2816.png
   row: 2
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 0
   path: 2/0/image_2560.png
   row: 2
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 0
   path: 2/0/image_2304.png
   row: 2
@@ -930,31 +930,31 @@
   checkpoint: 0
   path: 2/0/image_2048.png
   row: 2
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 0
   path: 2/0/image_1792.png
   row: 2
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 0
   path: 2/0/image_1536.png
   row: 2
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 0
   path: 2/0/image_1280.png
   row: 2
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 0
   path: 2/0/image_1024.png
   row: 2
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 0
   path: 2/0/image_768.png
   row: 2
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 0
   path: 2/0/image_512.png
   row: 2
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 0
   path: 2/0/image_256.png
   row: 2
@@ -962,31 +962,31 @@
   checkpoint: 1
   path: 2/1/image_4095.png
   row: 2
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 1
   path: 2/1/image_3840.png
   row: 2
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 1
   path: 2/1/image_3584.png
   row: 2
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 1
   path: 2/1/image_3328.png
   row: 2
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 1
   path: 2/1/image_3072.png
   row: 2
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 1
   path: 2/1/image_2816.png
   row: 2
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 1
   path: 2/1/image_2560.png
   row: 2
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 1
   path: 2/1/image_2304.png
   row: 2
@@ -994,31 +994,31 @@
   checkpoint: 1
   path: 2/1/image_2048.png
   row: 2
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 1
   path: 2/1/image_1792.png
   row: 2
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 1
   path: 2/1/image_1536.png
   row: 2
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 1
   path: 2/1/image_1280.png
   row: 2
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 1
   path: 2/1/image_1024.png
   row: 2
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 1
   path: 2/1/image_768.png
   row: 2
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 1
   path: 2/1/image_512.png
   row: 2
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 1
   path: 2/1/image_256.png
   row: 2
@@ -1026,31 +1026,31 @@
   checkpoint: 2
   path: 2/2/image_4095.png
   row: 2
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 2
   path: 2/2/image_3840.png
   row: 2
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 2
   path: 2/2/image_3584.png
   row: 2
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 2
   path: 2/2/image_3328.png
   row: 2
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 2
   path: 2/2/image_3072.png
   row: 2
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 2
   path: 2/2/image_2816.png
   row: 2
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 2
   path: 2/2/image_2560.png
   row: 2
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 2
   path: 2/2/image_2304.png
   row: 2
@@ -1058,31 +1058,31 @@
   checkpoint: 2
   path: 2/2/image_2048.png
   row: 2
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 2
   path: 2/2/image_1792.png
   row: 2
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 2
   path: 2/2/image_1536.png
   row: 2
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 2
   path: 2/2/image_1280.png
   row: 2
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 2
   path: 2/2/image_1024.png
   row: 2
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 2
   path: 2/2/image_768.png
   row: 2
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 2
   path: 2/2/image_512.png
   row: 2
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 2
   path: 2/2/image_256.png
   row: 2
@@ -1090,31 +1090,31 @@
   checkpoint: 3
   path: 2/3/image_4095.png
   row: 2
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 3
   path: 2/3/image_3840.png
   row: 2
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 3
   path: 2/3/image_3584.png
   row: 2
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 3
   path: 2/3/image_3328.png
   row: 2
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 3
   path: 2/3/image_3072.png
   row: 2
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 3
   path: 2/3/image_2816.png
   row: 2
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 3
   path: 2/3/image_2560.png
   row: 2
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 3
   path: 2/3/image_2304.png
   row: 2
@@ -1122,31 +1122,31 @@
   checkpoint: 3
   path: 2/3/image_2048.png
   row: 2
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 3
   path: 2/3/image_1792.png
   row: 2
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 3
   path: 2/3/image_1536.png
   row: 2
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 3
   path: 2/3/image_1280.png
   row: 2
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 3
   path: 2/3/image_1024.png
   row: 2
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 3
   path: 2/3/image_768.png
   row: 2
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 3
   path: 2/3/image_512.png
   row: 2
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 3
   path: 2/3/image_256.png
   row: 2
@@ -1154,31 +1154,31 @@
   checkpoint: 4
   path: 2/4/image_4095.png
   row: 2
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 4
   path: 2/4/image_3840.png
   row: 2
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 4
   path: 2/4/image_3584.png
   row: 2
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 4
   path: 2/4/image_3328.png
   row: 2
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 4
   path: 2/4/image_3072.png
   row: 2
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 4
   path: 2/4/image_2816.png
   row: 2
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 4
   path: 2/4/image_2560.png
   row: 2
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 4
   path: 2/4/image_2304.png
   row: 2
@@ -1186,31 +1186,31 @@
   checkpoint: 4
   path: 2/4/image_2048.png
   row: 2
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 4
   path: 2/4/image_1792.png
   row: 2
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 4
   path: 2/4/image_1536.png
   row: 2
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 4
   path: 2/4/image_1280.png
   row: 2
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 4
   path: 2/4/image_1024.png
   row: 2
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 4
   path: 2/4/image_768.png
   row: 2
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 4
   path: 2/4/image_512.png
   row: 2
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 4
   path: 2/4/image_256.png
   row: 2
@@ -1218,31 +1218,31 @@
   checkpoint: 5
   path: 2/5/image_4095.png
   row: 2
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 5
   path: 2/5/image_3840.png
   row: 2
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 5
   path: 2/5/image_3584.png
   row: 2
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 5
   path: 2/5/image_3328.png
   row: 2
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 5
   path: 2/5/image_3072.png
   row: 2
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 5
   path: 2/5/image_2816.png
   row: 2
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 5
   path: 2/5/image_2560.png
   row: 2
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 5
   path: 2/5/image_2304.png
   row: 2
@@ -1250,31 +1250,31 @@
   checkpoint: 5
   path: 2/5/image_2048.png
   row: 2
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 5
   path: 2/5/image_1792.png
   row: 2
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 5
   path: 2/5/image_1536.png
   row: 2
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 5
   path: 2/5/image_1280.png
   row: 2
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 5
   path: 2/5/image_1024.png
   row: 2
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 5
   path: 2/5/image_768.png
   row: 2
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 5
   path: 2/5/image_512.png
   row: 2
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 5
   path: 2/5/image_256.png
   row: 2
@@ -1282,31 +1282,31 @@
   checkpoint: 6
   path: 2/6/image_4095.png
   row: 2
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 6
   path: 2/6/image_3840.png
   row: 2
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 6
   path: 2/6/image_3584.png
   row: 2
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 6
   path: 2/6/image_3328.png
   row: 2
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 6
   path: 2/6/image_3072.png
   row: 2
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 6
   path: 2/6/image_2816.png
   row: 2
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 6
   path: 2/6/image_2560.png
   row: 2
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 6
   path: 2/6/image_2304.png
   row: 2
@@ -1314,31 +1314,31 @@
   checkpoint: 6
   path: 2/6/image_2048.png
   row: 2
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 6
   path: 2/6/image_1792.png
   row: 2
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 6
   path: 2/6/image_1536.png
   row: 2
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 6
   path: 2/6/image_1280.png
   row: 2
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 6
   path: 2/6/image_1024.png
   row: 2
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 6
   path: 2/6/image_768.png
   row: 2
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 6
   path: 2/6/image_512.png
   row: 2
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 6
   path: 2/6/image_256.png
   row: 2
@@ -1346,31 +1346,31 @@
   checkpoint: 0
   path: 3/0/image_4095.png
   row: 3
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 0
   path: 3/0/image_3840.png
   row: 3
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 0
   path: 3/0/image_3584.png
   row: 3
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 0
   path: 3/0/image_3328.png
   row: 3
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 0
   path: 3/0/image_3072.png
   row: 3
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 0
   path: 3/0/image_2816.png
   row: 3
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 0
   path: 3/0/image_2560.png
   row: 3
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 0
   path: 3/0/image_2304.png
   row: 3
@@ -1378,31 +1378,31 @@
   checkpoint: 0
   path: 3/0/image_2048.png
   row: 3
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 0
   path: 3/0/image_1792.png
   row: 3
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 0
   path: 3/0/image_1536.png
   row: 3
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 0
   path: 3/0/image_1280.png
   row: 3
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 0
   path: 3/0/image_1024.png
   row: 3
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 0
   path: 3/0/image_768.png
   row: 3
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 0
   path: 3/0/image_512.png
   row: 3
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 0
   path: 3/0/image_256.png
   row: 3
@@ -1410,31 +1410,31 @@
   checkpoint: 1
   path: 3/1/image_4095.png
   row: 3
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 1
   path: 3/1/image_3840.png
   row: 3
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 1
   path: 3/1/image_3584.png
   row: 3
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 1
   path: 3/1/image_3328.png
   row: 3
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 1
   path: 3/1/image_3072.png
   row: 3
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 1
   path: 3/1/image_2816.png
   row: 3
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 1
   path: 3/1/image_2560.png
   row: 3
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 1
   path: 3/1/image_2304.png
   row: 3
@@ -1442,31 +1442,31 @@
   checkpoint: 1
   path: 3/1/image_2048.png
   row: 3
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 1
   path: 3/1/image_1792.png
   row: 3
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 1
   path: 3/1/image_1536.png
   row: 3
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 1
   path: 3/1/image_1280.png
   row: 3
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 1
   path: 3/1/image_1024.png
   row: 3
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 1
   path: 3/1/image_768.png
   row: 3
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 1
   path: 3/1/image_512.png
   row: 3
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 1
   path: 3/1/image_256.png
   row: 3
@@ -1474,31 +1474,31 @@
   checkpoint: 2
   path: 3/2/image_4095.png
   row: 3
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 2
   path: 3/2/image_3840.png
   row: 3
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 2
   path: 3/2/image_3584.png
   row: 3
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 2
   path: 3/2/image_3328.png
   row: 3
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 2
   path: 3/2/image_3072.png
   row: 3
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 2
   path: 3/2/image_2816.png
   row: 3
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 2
   path: 3/2/image_2560.png
   row: 3
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 2
   path: 3/2/image_2304.png
   row: 3
@@ -1506,31 +1506,31 @@
   checkpoint: 2
   path: 3/2/image_2048.png
   row: 3
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 2
   path: 3/2/image_1792.png
   row: 3
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 2
   path: 3/2/image_1536.png
   row: 3
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 2
   path: 3/2/image_1280.png
   row: 3
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 2
   path: 3/2/image_1024.png
   row: 3
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 2
   path: 3/2/image_768.png
   row: 3
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 2
   path: 3/2/image_512.png
   row: 3
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 2
   path: 3/2/image_256.png
   row: 3
@@ -1538,31 +1538,31 @@
   checkpoint: 3
   path: 3/3/image_4095.png
   row: 3
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 3
   path: 3/3/image_3840.png
   row: 3
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 3
   path: 3/3/image_3584.png
   row: 3
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 3
   path: 3/3/image_3328.png
   row: 3
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 3
   path: 3/3/image_3072.png
   row: 3
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 3
   path: 3/3/image_2816.png
   row: 3
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 3
   path: 3/3/image_2560.png
   row: 3
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 3
   path: 3/3/image_2304.png
   row: 3
@@ -1570,31 +1570,31 @@
   checkpoint: 3
   path: 3/3/image_2048.png
   row: 3
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 3
   path: 3/3/image_1792.png
   row: 3
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 3
   path: 3/3/image_1536.png
   row: 3
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 3
   path: 3/3/image_1280.png
   row: 3
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 3
   path: 3/3/image_1024.png
   row: 3
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 3
   path: 3/3/image_768.png
   row: 3
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 3
   path: 3/3/image_512.png
   row: 3
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 3
   path: 3/3/image_256.png
   row: 3
@@ -1602,31 +1602,31 @@
   checkpoint: 4
   path: 3/4/image_4095.png
   row: 3
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 4
   path: 3/4/image_3840.png
   row: 3
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 4
   path: 3/4/image_3584.png
   row: 3
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 4
   path: 3/4/image_3328.png
   row: 3
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 4
   path: 3/4/image_3072.png
   row: 3
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 4
   path: 3/4/image_2816.png
   row: 3
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 4
   path: 3/4/image_2560.png
   row: 3
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 4
   path: 3/4/image_2304.png
   row: 3
@@ -1634,31 +1634,31 @@
   checkpoint: 4
   path: 3/4/image_2048.png
   row: 3
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 4
   path: 3/4/image_1792.png
   row: 3
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 4
   path: 3/4/image_1536.png
   row: 3
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 4
   path: 3/4/image_1280.png
   row: 3
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 4
   path: 3/4/image_1024.png
   row: 3
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 4
   path: 3/4/image_768.png
   row: 3
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 4
   path: 3/4/image_512.png
   row: 3
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 4
   path: 3/4/image_256.png
   row: 3
@@ -1666,31 +1666,31 @@
   checkpoint: 5
   path: 3/5/image_4095.png
   row: 3
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 5
   path: 3/5/image_3840.png
   row: 3
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 5
   path: 3/5/image_3584.png
   row: 3
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 5
   path: 3/5/image_3328.png
   row: 3
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 5
   path: 3/5/image_3072.png
   row: 3
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 5
   path: 3/5/image_2816.png
   row: 3
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 5
   path: 3/5/image_2560.png
   row: 3
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 5
   path: 3/5/image_2304.png
   row: 3
@@ -1698,31 +1698,31 @@
   checkpoint: 5
   path: 3/5/image_2048.png
   row: 3
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 5
   path: 3/5/image_1792.png
   row: 3
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 5
   path: 3/5/image_1536.png
   row: 3
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 5
   path: 3/5/image_1280.png
   row: 3
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 5
   path: 3/5/image_1024.png
   row: 3
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 5
   path: 3/5/image_768.png
   row: 3
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 5
   path: 3/5/image_512.png
   row: 3
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 5
   path: 3/5/image_256.png
   row: 3
@@ -1730,31 +1730,31 @@
   checkpoint: 6
   path: 3/6/image_4095.png
   row: 3
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 6
   path: 3/6/image_3840.png
   row: 3
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 6
   path: 3/6/image_3584.png
   row: 3
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 6
   path: 3/6/image_3328.png
   row: 3
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 6
   path: 3/6/image_3072.png
   row: 3
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 6
   path: 3/6/image_2816.png
   row: 3
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 6
   path: 3/6/image_2560.png
   row: 3
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 6
   path: 3/6/image_2304.png
   row: 3
@@ -1762,31 +1762,31 @@
   checkpoint: 6
   path: 3/6/image_2048.png
   row: 3
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 6
   path: 3/6/image_1792.png
   row: 3
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 6
   path: 3/6/image_1536.png
   row: 3
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 6
   path: 3/6/image_1280.png
   row: 3
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 6
   path: 3/6/image_1024.png
   row: 3
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 6
   path: 3/6/image_768.png
   row: 3
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 6
   path: 3/6/image_512.png
   row: 3
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 6
   path: 3/6/image_256.png
   row: 3
@@ -1794,31 +1794,31 @@
   checkpoint: 0
   path: 4/0/image_4095.png
   row: 4
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 0
   path: 4/0/image_3840.png
   row: 4
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 0
   path: 4/0/image_3584.png
   row: 4
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 0
   path: 4/0/image_3328.png
   row: 4
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 0
   path: 4/0/image_3072.png
   row: 4
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 0
   path: 4/0/image_2816.png
   row: 4
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 0
   path: 4/0/image_2560.png
   row: 4
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 0
   path: 4/0/image_2304.png
   row: 4
@@ -1826,31 +1826,31 @@
   checkpoint: 0
   path: 4/0/image_2048.png
   row: 4
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 0
   path: 4/0/image_1792.png
   row: 4
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 0
   path: 4/0/image_1536.png
   row: 4
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 0
   path: 4/0/image_1280.png
   row: 4
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 0
   path: 4/0/image_1024.png
   row: 4
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 0
   path: 4/0/image_768.png
   row: 4
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 0
   path: 4/0/image_512.png
   row: 4
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 0
   path: 4/0/image_256.png
   row: 4
@@ -1858,31 +1858,31 @@
   checkpoint: 1
   path: 4/1/image_4095.png
   row: 4
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 1
   path: 4/1/image_3840.png
   row: 4
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 1
   path: 4/1/image_3584.png
   row: 4
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 1
   path: 4/1/image_3328.png
   row: 4
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 1
   path: 4/1/image_3072.png
   row: 4
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 1
   path: 4/1/image_2816.png
   row: 4
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 1
   path: 4/1/image_2560.png
   row: 4
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 1
   path: 4/1/image_2304.png
   row: 4
@@ -1890,31 +1890,31 @@
   checkpoint: 1
   path: 4/1/image_2048.png
   row: 4
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 1
   path: 4/1/image_1792.png
   row: 4
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 1
   path: 4/1/image_1536.png
   row: 4
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 1
   path: 4/1/image_1280.png
   row: 4
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 1
   path: 4/1/image_1024.png
   row: 4
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 1
   path: 4/1/image_768.png
   row: 4
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 1
   path: 4/1/image_512.png
   row: 4
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 1
   path: 4/1/image_256.png
   row: 4
@@ -1922,31 +1922,31 @@
   checkpoint: 2
   path: 4/2/image_4095.png
   row: 4
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 2
   path: 4/2/image_3840.png
   row: 4
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 2
   path: 4/2/image_3584.png
   row: 4
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 2
   path: 4/2/image_3328.png
   row: 4
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 2
   path: 4/2/image_3072.png
   row: 4
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 2
   path: 4/2/image_2816.png
   row: 4
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 2
   path: 4/2/image_2560.png
   row: 4
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 2
   path: 4/2/image_2304.png
   row: 4
@@ -1954,31 +1954,31 @@
   checkpoint: 2
   path: 4/2/image_2048.png
   row: 4
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 2
   path: 4/2/image_1792.png
   row: 4
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 2
   path: 4/2/image_1536.png
   row: 4
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 2
   path: 4/2/image_1280.png
   row: 4
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 2
   path: 4/2/image_1024.png
   row: 4
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 2
   path: 4/2/image_768.png
   row: 4
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 2
   path: 4/2/image_512.png
   row: 4
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 2
   path: 4/2/image_256.png
   row: 4
@@ -1986,31 +1986,31 @@
   checkpoint: 3
   path: 4/3/image_4095.png
   row: 4
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 3
   path: 4/3/image_3840.png
   row: 4
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 3
   path: 4/3/image_3584.png
   row: 4
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 3
   path: 4/3/image_3328.png
   row: 4
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 3
   path: 4/3/image_3072.png
   row: 4
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 3
   path: 4/3/image_2816.png
   row: 4
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 3
   path: 4/3/image_2560.png
   row: 4
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 3
   path: 4/3/image_2304.png
   row: 4
@@ -2018,31 +2018,31 @@
   checkpoint: 3
   path: 4/3/image_2048.png
   row: 4
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 3
   path: 4/3/image_1792.png
   row: 4
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 3
   path: 4/3/image_1536.png
   row: 4
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 3
   path: 4/3/image_1280.png
   row: 4
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 3
   path: 4/3/image_1024.png
   row: 4
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 3
   path: 4/3/image_768.png
   row: 4
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 3
   path: 4/3/image_512.png
   row: 4
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 3
   path: 4/3/image_256.png
   row: 4
@@ -2050,31 +2050,31 @@
   checkpoint: 4
   path: 4/4/image_4095.png
   row: 4
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 4
   path: 4/4/image_3840.png
   row: 4
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 4
   path: 4/4/image_3584.png
   row: 4
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 4
   path: 4/4/image_3328.png
   row: 4
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 4
   path: 4/4/image_3072.png
   row: 4
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 4
   path: 4/4/image_2816.png
   row: 4
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 4
   path: 4/4/image_2560.png
   row: 4
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 4
   path: 4/4/image_2304.png
   row: 4
@@ -2082,31 +2082,31 @@
   checkpoint: 4
   path: 4/4/image_2048.png
   row: 4
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 4
   path: 4/4/image_1792.png
   row: 4
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 4
   path: 4/4/image_1536.png
   row: 4
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 4
   path: 4/4/image_1280.png
   row: 4
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 4
   path: 4/4/image_1024.png
   row: 4
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 4
   path: 4/4/image_768.png
   row: 4
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 4
   path: 4/4/image_512.png
   row: 4
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 4
   path: 4/4/image_256.png
   row: 4
@@ -2114,31 +2114,31 @@
   checkpoint: 5
   path: 4/5/image_4095.png
   row: 4
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 5
   path: 4/5/image_3840.png
   row: 4
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 5
   path: 4/5/image_3584.png
   row: 4
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 5
   path: 4/5/image_3328.png
   row: 4
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 5
   path: 4/5/image_3072.png
   row: 4
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 5
   path: 4/5/image_2816.png
   row: 4
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 5
   path: 4/5/image_2560.png
   row: 4
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 5
   path: 4/5/image_2304.png
   row: 4
@@ -2146,31 +2146,31 @@
   checkpoint: 5
   path: 4/5/image_2048.png
   row: 4
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 5
   path: 4/5/image_1792.png
   row: 4
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 5
   path: 4/5/image_1536.png
   row: 4
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 5
   path: 4/5/image_1280.png
   row: 4
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 5
   path: 4/5/image_1024.png
   row: 4
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 5
   path: 4/5/image_768.png
   row: 4
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 5
   path: 4/5/image_512.png
   row: 4
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 5
   path: 4/5/image_256.png
   row: 4
@@ -2178,31 +2178,31 @@
   checkpoint: 6
   path: 4/6/image_4095.png
   row: 4
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 6
   path: 4/6/image_3840.png
   row: 4
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 6
   path: 4/6/image_3584.png
   row: 4
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 6
   path: 4/6/image_3328.png
   row: 4
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 6
   path: 4/6/image_3072.png
   row: 4
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 6
   path: 4/6/image_2816.png
   row: 4
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 6
   path: 4/6/image_2560.png
   row: 4
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 6
   path: 4/6/image_2304.png
   row: 4
@@ -2210,31 +2210,31 @@
   checkpoint: 6
   path: 4/6/image_2048.png
   row: 4
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 6
   path: 4/6/image_1792.png
   row: 4
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 6
   path: 4/6/image_1536.png
   row: 4
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 6
   path: 4/6/image_1280.png
   row: 4
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 6
   path: 4/6/image_1024.png
   row: 4
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 6
   path: 4/6/image_768.png
   row: 4
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 6
   path: 4/6/image_512.png
   row: 4
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 6
   path: 4/6/image_256.png
   row: 4
@@ -2242,31 +2242,31 @@
   checkpoint: 0
   path: 5/0/image_4095.png
   row: 5
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 0
   path: 5/0/image_3840.png
   row: 5
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 0
   path: 5/0/image_3584.png
   row: 5
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 0
   path: 5/0/image_3328.png
   row: 5
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 0
   path: 5/0/image_3072.png
   row: 5
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 0
   path: 5/0/image_2816.png
   row: 5
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 0
   path: 5/0/image_2560.png
   row: 5
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 0
   path: 5/0/image_2304.png
   row: 5
@@ -2274,31 +2274,31 @@
   checkpoint: 0
   path: 5/0/image_2048.png
   row: 5
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 0
   path: 5/0/image_1792.png
   row: 5
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 0
   path: 5/0/image_1536.png
   row: 5
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 0
   path: 5/0/image_1280.png
   row: 5
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 0
   path: 5/0/image_1024.png
   row: 5
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 0
   path: 5/0/image_768.png
   row: 5
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 0
   path: 5/0/image_512.png
   row: 5
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 0
   path: 5/0/image_256.png
   row: 5
@@ -2306,31 +2306,31 @@
   checkpoint: 1
   path: 5/1/image_4095.png
   row: 5
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 1
   path: 5/1/image_3840.png
   row: 5
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 1
   path: 5/1/image_3584.png
   row: 5
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 1
   path: 5/1/image_3328.png
   row: 5
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 1
   path: 5/1/image_3072.png
   row: 5
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 1
   path: 5/1/image_2816.png
   row: 5
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 1
   path: 5/1/image_2560.png
   row: 5
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 1
   path: 5/1/image_2304.png
   row: 5
@@ -2338,31 +2338,31 @@
   checkpoint: 1
   path: 5/1/image_2048.png
   row: 5
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 1
   path: 5/1/image_1792.png
   row: 5
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 1
   path: 5/1/image_1536.png
   row: 5
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 1
   path: 5/1/image_1280.png
   row: 5
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 1
   path: 5/1/image_1024.png
   row: 5
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 1
   path: 5/1/image_768.png
   row: 5
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 1
   path: 5/1/image_512.png
   row: 5
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 1
   path: 5/1/image_256.png
   row: 5
@@ -2370,31 +2370,31 @@
   checkpoint: 2
   path: 5/2/image_4095.png
   row: 5
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 2
   path: 5/2/image_3840.png
   row: 5
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 2
   path: 5/2/image_3584.png
   row: 5
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 2
   path: 5/2/image_3328.png
   row: 5
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 2
   path: 5/2/image_3072.png
   row: 5
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 2
   path: 5/2/image_2816.png
   row: 5
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 2
   path: 5/2/image_2560.png
   row: 5
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 2
   path: 5/2/image_2304.png
   row: 5
@@ -2402,31 +2402,31 @@
   checkpoint: 2
   path: 5/2/image_2048.png
   row: 5
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 2
   path: 5/2/image_1792.png
   row: 5
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 2
   path: 5/2/image_1536.png
   row: 5
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 2
   path: 5/2/image_1280.png
   row: 5
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 2
   path: 5/2/image_1024.png
   row: 5
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 2
   path: 5/2/image_768.png
   row: 5
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 2
   path: 5/2/image_512.png
   row: 5
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 2
   path: 5/2/image_256.png
   row: 5
@@ -2434,31 +2434,31 @@
   checkpoint: 3
   path: 5/3/image_4095.png
   row: 5
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 3
   path: 5/3/image_3840.png
   row: 5
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 3
   path: 5/3/image_3584.png
   row: 5
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 3
   path: 5/3/image_3328.png
   row: 5
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 3
   path: 5/3/image_3072.png
   row: 5
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 3
   path: 5/3/image_2816.png
   row: 5
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 3
   path: 5/3/image_2560.png
   row: 5
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 3
   path: 5/3/image_2304.png
   row: 5
@@ -2466,31 +2466,31 @@
   checkpoint: 3
   path: 5/3/image_2048.png
   row: 5
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 3
   path: 5/3/image_1792.png
   row: 5
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 3
   path: 5/3/image_1536.png
   row: 5
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 3
   path: 5/3/image_1280.png
   row: 5
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 3
   path: 5/3/image_1024.png
   row: 5
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 3
   path: 5/3/image_768.png
   row: 5
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 3
   path: 5/3/image_512.png
   row: 5
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 3
   path: 5/3/image_256.png
   row: 5
@@ -2498,31 +2498,31 @@
   checkpoint: 4
   path: 5/4/image_4095.png
   row: 5
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 4
   path: 5/4/image_3840.png
   row: 5
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 4
   path: 5/4/image_3584.png
   row: 5
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 4
   path: 5/4/image_3328.png
   row: 5
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 4
   path: 5/4/image_3072.png
   row: 5
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 4
   path: 5/4/image_2816.png
   row: 5
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 4
   path: 5/4/image_2560.png
   row: 5
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 4
   path: 5/4/image_2304.png
   row: 5
@@ -2530,31 +2530,31 @@
   checkpoint: 4
   path: 5/4/image_2048.png
   row: 5
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 4
   path: 5/4/image_1792.png
   row: 5
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 4
   path: 5/4/image_1536.png
   row: 5
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 4
   path: 5/4/image_1280.png
   row: 5
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 4
   path: 5/4/image_1024.png
   row: 5
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 4
   path: 5/4/image_768.png
   row: 5
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 4
   path: 5/4/image_512.png
   row: 5
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 4
   path: 5/4/image_256.png
   row: 5
@@ -2562,31 +2562,31 @@
   checkpoint: 5
   path: 5/5/image_4095.png
   row: 5
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 5
   path: 5/5/image_3840.png
   row: 5
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 5
   path: 5/5/image_3584.png
   row: 5
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 5
   path: 5/5/image_3328.png
   row: 5
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 5
   path: 5/5/image_3072.png
   row: 5
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 5
   path: 5/5/image_2816.png
   row: 5
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 5
   path: 5/5/image_2560.png
   row: 5
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 5
   path: 5/5/image_2304.png
   row: 5
@@ -2594,31 +2594,31 @@
   checkpoint: 5
   path: 5/5/image_2048.png
   row: 5
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 5
   path: 5/5/image_1792.png
   row: 5
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 5
   path: 5/5/image_1536.png
   row: 5
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 5
   path: 5/5/image_1280.png
   row: 5
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 5
   path: 5/5/image_1024.png
   row: 5
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 5
   path: 5/5/image_768.png
   row: 5
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 5
   path: 5/5/image_512.png
   row: 5
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 5
   path: 5/5/image_256.png
   row: 5
@@ -2626,31 +2626,31 @@
   checkpoint: 6
   path: 5/6/image_4095.png
   row: 5
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 6
   path: 5/6/image_3840.png
   row: 5
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 6
   path: 5/6/image_3584.png
   row: 5
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 6
   path: 5/6/image_3328.png
   row: 5
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 6
   path: 5/6/image_3072.png
   row: 5
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 6
   path: 5/6/image_2816.png
   row: 5
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 6
   path: 5/6/image_2560.png
   row: 5
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 6
   path: 5/6/image_2304.png
   row: 5
@@ -2658,31 +2658,31 @@
   checkpoint: 6
   path: 5/6/image_2048.png
   row: 5
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 6
   path: 5/6/image_1792.png
   row: 5
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 6
   path: 5/6/image_1536.png
   row: 5
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 6
   path: 5/6/image_1280.png
   row: 5
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 6
   path: 5/6/image_1024.png
   row: 5
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 6
   path: 5/6/image_768.png
   row: 5
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 6
   path: 5/6/image_512.png
   row: 5
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 6
   path: 5/6/image_256.png
   row: 5
@@ -2690,31 +2690,31 @@
   checkpoint: 0
   path: 6/0/image_4095.png
   row: 6
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 0
   path: 6/0/image_3840.png
   row: 6
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 0
   path: 6/0/image_3584.png
   row: 6
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 0
   path: 6/0/image_3328.png
   row: 6
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 0
   path: 6/0/image_3072.png
   row: 6
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 0
   path: 6/0/image_2816.png
   row: 6
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 0
   path: 6/0/image_2560.png
   row: 6
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 0
   path: 6/0/image_2304.png
   row: 6
@@ -2722,31 +2722,31 @@
   checkpoint: 0
   path: 6/0/image_2048.png
   row: 6
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 0
   path: 6/0/image_1792.png
   row: 6
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 0
   path: 6/0/image_1536.png
   row: 6
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 0
   path: 6/0/image_1280.png
   row: 6
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 0
   path: 6/0/image_1024.png
   row: 6
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 0
   path: 6/0/image_768.png
   row: 6
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 0
   path: 6/0/image_512.png
   row: 6
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 0
   path: 6/0/image_256.png
   row: 6
@@ -2754,31 +2754,31 @@
   checkpoint: 1
   path: 6/1/image_4095.png
   row: 6
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 1
   path: 6/1/image_3840.png
   row: 6
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 1
   path: 6/1/image_3584.png
   row: 6
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 1
   path: 6/1/image_3328.png
   row: 6
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 1
   path: 6/1/image_3072.png
   row: 6
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 1
   path: 6/1/image_2816.png
   row: 6
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 1
   path: 6/1/image_2560.png
   row: 6
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 1
   path: 6/1/image_2304.png
   row: 6
@@ -2786,31 +2786,31 @@
   checkpoint: 1
   path: 6/1/image_2048.png
   row: 6
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 1
   path: 6/1/image_1792.png
   row: 6
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 1
   path: 6/1/image_1536.png
   row: 6
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 1
   path: 6/1/image_1280.png
   row: 6
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 1
   path: 6/1/image_1024.png
   row: 6
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 1
   path: 6/1/image_768.png
   row: 6
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 1
   path: 6/1/image_512.png
   row: 6
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 1
   path: 6/1/image_256.png
   row: 6
@@ -2818,31 +2818,31 @@
   checkpoint: 2
   path: 6/2/image_4095.png
   row: 6
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 2
   path: 6/2/image_3840.png
   row: 6
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 2
   path: 6/2/image_3584.png
   row: 6
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 2
   path: 6/2/image_3328.png
   row: 6
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 2
   path: 6/2/image_3072.png
   row: 6
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 2
   path: 6/2/image_2816.png
   row: 6
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 2
   path: 6/2/image_2560.png
   row: 6
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 2
   path: 6/2/image_2304.png
   row: 6
@@ -2850,31 +2850,31 @@
   checkpoint: 2
   path: 6/2/image_2048.png
   row: 6
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 2
   path: 6/2/image_1792.png
   row: 6
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 2
   path: 6/2/image_1536.png
   row: 6
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 2
   path: 6/2/image_1280.png
   row: 6
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 2
   path: 6/2/image_1024.png
   row: 6
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 2
   path: 6/2/image_768.png
   row: 6
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 2
   path: 6/2/image_512.png
   row: 6
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 2
   path: 6/2/image_256.png
   row: 6
@@ -2882,31 +2882,31 @@
   checkpoint: 3
   path: 6/3/image_4095.png
   row: 6
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 3
   path: 6/3/image_3840.png
   row: 6
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 3
   path: 6/3/image_3584.png
   row: 6
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 3
   path: 6/3/image_3328.png
   row: 6
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 3
   path: 6/3/image_3072.png
   row: 6
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 3
   path: 6/3/image_2816.png
   row: 6
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 3
   path: 6/3/image_2560.png
   row: 6
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 3
   path: 6/3/image_2304.png
   row: 6
@@ -2914,31 +2914,31 @@
   checkpoint: 3
   path: 6/3/image_2048.png
   row: 6
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 3
   path: 6/3/image_1792.png
   row: 6
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 3
   path: 6/3/image_1536.png
   row: 6
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 3
   path: 6/3/image_1280.png
   row: 6
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 3
   path: 6/3/image_1024.png
   row: 6
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 3
   path: 6/3/image_768.png
   row: 6
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 3
   path: 6/3/image_512.png
   row: 6
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 3
   path: 6/3/image_256.png
   row: 6
@@ -2946,31 +2946,31 @@
   checkpoint: 4
   path: 6/4/image_4095.png
   row: 6
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 4
   path: 6/4/image_3840.png
   row: 6
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 4
   path: 6/4/image_3584.png
   row: 6
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 4
   path: 6/4/image_3328.png
   row: 6
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 4
   path: 6/4/image_3072.png
   row: 6
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 4
   path: 6/4/image_2816.png
   row: 6
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 4
   path: 6/4/image_2560.png
   row: 6
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 4
   path: 6/4/image_2304.png
   row: 6
@@ -2978,31 +2978,31 @@
   checkpoint: 4
   path: 6/4/image_2048.png
   row: 6
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 4
   path: 6/4/image_1792.png
   row: 6
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 4
   path: 6/4/image_1536.png
   row: 6
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 4
   path: 6/4/image_1280.png
   row: 6
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 4
   path: 6/4/image_1024.png
   row: 6
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 4
   path: 6/4/image_768.png
   row: 6
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 4
   path: 6/4/image_512.png
   row: 6
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 4
   path: 6/4/image_256.png
   row: 6
@@ -3010,31 +3010,31 @@
   checkpoint: 5
   path: 6/5/image_4095.png
   row: 6
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 5
   path: 6/5/image_3840.png
   row: 6
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 5
   path: 6/5/image_3584.png
   row: 6
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 5
   path: 6/5/image_3328.png
   row: 6
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 5
   path: 6/5/image_3072.png
   row: 6
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 5
   path: 6/5/image_2816.png
   row: 6
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 5
   path: 6/5/image_2560.png
   row: 6
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 5
   path: 6/5/image_2304.png
   row: 6
@@ -3042,31 +3042,31 @@
   checkpoint: 5
   path: 6/5/image_2048.png
   row: 6
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 5
   path: 6/5/image_1792.png
   row: 6
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 5
   path: 6/5/image_1536.png
   row: 6
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 5
   path: 6/5/image_1280.png
   row: 6
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 5
   path: 6/5/image_1024.png
   row: 6
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 5
   path: 6/5/image_768.png
   row: 6
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 5
   path: 6/5/image_512.png
   row: 6
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 5
   path: 6/5/image_256.png
   row: 6
@@ -3074,31 +3074,31 @@
   checkpoint: 6
   path: 6/6/image_4095.png
   row: 6
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 6
   path: 6/6/image_3840.png
   row: 6
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 6
   path: 6/6/image_3584.png
   row: 6
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 6
   path: 6/6/image_3328.png
   row: 6
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 6
   path: 6/6/image_3072.png
   row: 6
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 6
   path: 6/6/image_2816.png
   row: 6
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 6
   path: 6/6/image_2560.png
   row: 6
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 6
   path: 6/6/image_2304.png
   row: 6
@@ -3106,31 +3106,31 @@
   checkpoint: 6
   path: 6/6/image_2048.png
   row: 6
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 6
   path: 6/6/image_1792.png
   row: 6
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 6
   path: 6/6/image_1536.png
   row: 6
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 6
   path: 6/6/image_1280.png
   row: 6
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 6
   path: 6/6/image_1024.png
   row: 6
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 6
   path: 6/6/image_768.png
   row: 6
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 6
   path: 6/6/image_512.png
   row: 6
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 6
   path: 6/6/image_256.png
   row: 6
@@ -3138,31 +3138,31 @@
   checkpoint: 0
   path: 7/0/image_4095.png
   row: 7
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 0
   path: 7/0/image_3840.png
   row: 7
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 0
   path: 7/0/image_3584.png
   row: 7
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 0
   path: 7/0/image_3328.png
   row: 7
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 0
   path: 7/0/image_3072.png
   row: 7
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 0
   path: 7/0/image_2816.png
   row: 7
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 0
   path: 7/0/image_2560.png
   row: 7
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 0
   path: 7/0/image_2304.png
   row: 7
@@ -3170,31 +3170,31 @@
   checkpoint: 0
   path: 7/0/image_2048.png
   row: 7
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 0
   path: 7/0/image_1792.png
   row: 7
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 0
   path: 7/0/image_1536.png
   row: 7
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 0
   path: 7/0/image_1280.png
   row: 7
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 0
   path: 7/0/image_1024.png
   row: 7
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 0
   path: 7/0/image_768.png
   row: 7
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 0
   path: 7/0/image_512.png
   row: 7
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 0
   path: 7/0/image_256.png
   row: 7
@@ -3202,31 +3202,31 @@
   checkpoint: 1
   path: 7/1/image_4095.png
   row: 7
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 1
   path: 7/1/image_3840.png
   row: 7
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 1
   path: 7/1/image_3584.png
   row: 7
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 1
   path: 7/1/image_3328.png
   row: 7
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 1
   path: 7/1/image_3072.png
   row: 7
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 1
   path: 7/1/image_2816.png
   row: 7
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 1
   path: 7/1/image_2560.png
   row: 7
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 1
   path: 7/1/image_2304.png
   row: 7
@@ -3234,31 +3234,31 @@
   checkpoint: 1
   path: 7/1/image_2048.png
   row: 7
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 1
   path: 7/1/image_1792.png
   row: 7
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 1
   path: 7/1/image_1536.png
   row: 7
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 1
   path: 7/1/image_1280.png
   row: 7
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 1
   path: 7/1/image_1024.png
   row: 7
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 1
   path: 7/1/image_768.png
   row: 7
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 1
   path: 7/1/image_512.png
   row: 7
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 1
   path: 7/1/image_256.png
   row: 7
@@ -3266,31 +3266,31 @@
   checkpoint: 2
   path: 7/2/image_4095.png
   row: 7
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 2
   path: 7/2/image_3840.png
   row: 7
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 2
   path: 7/2/image_3584.png
   row: 7
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 2
   path: 7/2/image_3328.png
   row: 7
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 2
   path: 7/2/image_3072.png
   row: 7
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 2
   path: 7/2/image_2816.png
   row: 7
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 2
   path: 7/2/image_2560.png
   row: 7
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 2
   path: 7/2/image_2304.png
   row: 7
@@ -3298,31 +3298,31 @@
   checkpoint: 2
   path: 7/2/image_2048.png
   row: 7
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 2
   path: 7/2/image_1792.png
   row: 7
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 2
   path: 7/2/image_1536.png
   row: 7
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 2
   path: 7/2/image_1280.png
   row: 7
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 2
   path: 7/2/image_1024.png
   row: 7
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 2
   path: 7/2/image_768.png
   row: 7
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 2
   path: 7/2/image_512.png
   row: 7
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 2
   path: 7/2/image_256.png
   row: 7
@@ -3330,31 +3330,31 @@
   checkpoint: 3
   path: 7/3/image_4095.png
   row: 7
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 3
   path: 7/3/image_3840.png
   row: 7
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 3
   path: 7/3/image_3584.png
   row: 7
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 3
   path: 7/3/image_3328.png
   row: 7
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 3
   path: 7/3/image_3072.png
   row: 7
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 3
   path: 7/3/image_2816.png
   row: 7
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 3
   path: 7/3/image_2560.png
   row: 7
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 3
   path: 7/3/image_2304.png
   row: 7
@@ -3362,31 +3362,31 @@
   checkpoint: 3
   path: 7/3/image_2048.png
   row: 7
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 3
   path: 7/3/image_1792.png
   row: 7
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 3
   path: 7/3/image_1536.png
   row: 7
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 3
   path: 7/3/image_1280.png
   row: 7
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 3
   path: 7/3/image_1024.png
   row: 7
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 3
   path: 7/3/image_768.png
   row: 7
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 3
   path: 7/3/image_512.png
   row: 7
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 3
   path: 7/3/image_256.png
   row: 7
@@ -3394,31 +3394,31 @@
   checkpoint: 4
   path: 7/4/image_4095.png
   row: 7
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 4
   path: 7/4/image_3840.png
   row: 7
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 4
   path: 7/4/image_3584.png
   row: 7
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 4
   path: 7/4/image_3328.png
   row: 7
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 4
   path: 7/4/image_3072.png
   row: 7
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 4
   path: 7/4/image_2816.png
   row: 7
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 4
   path: 7/4/image_2560.png
   row: 7
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 4
   path: 7/4/image_2304.png
   row: 7
@@ -3426,31 +3426,31 @@
   checkpoint: 4
   path: 7/4/image_2048.png
   row: 7
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 4
   path: 7/4/image_1792.png
   row: 7
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 4
   path: 7/4/image_1536.png
   row: 7
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 4
   path: 7/4/image_1280.png
   row: 7
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 4
   path: 7/4/image_1024.png
   row: 7
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 4
   path: 7/4/image_768.png
   row: 7
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 4
   path: 7/4/image_512.png
   row: 7
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 4
   path: 7/4/image_256.png
   row: 7
@@ -3458,31 +3458,31 @@
   checkpoint: 5
   path: 7/5/image_4095.png
   row: 7
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 5
   path: 7/5/image_3840.png
   row: 7
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 5
   path: 7/5/image_3584.png
   row: 7
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 5
   path: 7/5/image_3328.png
   row: 7
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 5
   path: 7/5/image_3072.png
   row: 7
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 5
   path: 7/5/image_2816.png
   row: 7
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 5
   path: 7/5/image_2560.png
   row: 7
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 5
   path: 7/5/image_2304.png
   row: 7
@@ -3490,31 +3490,31 @@
   checkpoint: 5
   path: 7/5/image_2048.png
   row: 7
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 5
   path: 7/5/image_1792.png
   row: 7
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 5
   path: 7/5/image_1536.png
   row: 7
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 5
   path: 7/5/image_1280.png
   row: 7
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 5
   path: 7/5/image_1024.png
   row: 7
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 5
   path: 7/5/image_768.png
   row: 7
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 5
   path: 7/5/image_512.png
   row: 7
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 5
   path: 7/5/image_256.png
   row: 7
@@ -3522,31 +3522,31 @@
   checkpoint: 6
   path: 7/6/image_4095.png
   row: 7
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 6
   path: 7/6/image_3840.png
   row: 7
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 6
   path: 7/6/image_3584.png
   row: 7
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 6
   path: 7/6/image_3328.png
   row: 7
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 6
   path: 7/6/image_3072.png
   row: 7
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 6
   path: 7/6/image_2816.png
   row: 7
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 6
   path: 7/6/image_2560.png
   row: 7
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 6
   path: 7/6/image_2304.png
   row: 7
@@ -3554,31 +3554,31 @@
   checkpoint: 6
   path: 7/6/image_2048.png
   row: 7
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 6
   path: 7/6/image_1792.png
   row: 7
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 6
   path: 7/6/image_1536.png
   row: 7
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 6
   path: 7/6/image_1280.png
   row: 7
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 6
   path: 7/6/image_1024.png
   row: 7
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 6
   path: 7/6/image_768.png
   row: 7
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 6
   path: 7/6/image_512.png
   row: 7
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 6
   path: 7/6/image_256.png
   row: 7
@@ -3586,31 +3586,31 @@
   checkpoint: 0
   path: 8/0/image_4095.png
   row: 8
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 0
   path: 8/0/image_3840.png
   row: 8
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 0
   path: 8/0/image_3584.png
   row: 8
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 0
   path: 8/0/image_3328.png
   row: 8
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 0
   path: 8/0/image_3072.png
   row: 8
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 0
   path: 8/0/image_2816.png
   row: 8
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 0
   path: 8/0/image_2560.png
   row: 8
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 0
   path: 8/0/image_2304.png
   row: 8
@@ -3618,31 +3618,31 @@
   checkpoint: 0
   path: 8/0/image_2048.png
   row: 8
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 0
   path: 8/0/image_1792.png
   row: 8
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 0
   path: 8/0/image_1536.png
   row: 8
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 0
   path: 8/0/image_1280.png
   row: 8
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 0
   path: 8/0/image_1024.png
   row: 8
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 0
   path: 8/0/image_768.png
   row: 8
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 0
   path: 8/0/image_512.png
   row: 8
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 0
   path: 8/0/image_256.png
   row: 8
@@ -3650,31 +3650,31 @@
   checkpoint: 1
   path: 8/1/image_4095.png
   row: 8
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 1
   path: 8/1/image_3840.png
   row: 8
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 1
   path: 8/1/image_3584.png
   row: 8
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 1
   path: 8/1/image_3328.png
   row: 8
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 1
   path: 8/1/image_3072.png
   row: 8
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 1
   path: 8/1/image_2816.png
   row: 8
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 1
   path: 8/1/image_2560.png
   row: 8
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 1
   path: 8/1/image_2304.png
   row: 8
@@ -3682,31 +3682,31 @@
   checkpoint: 1
   path: 8/1/image_2048.png
   row: 8
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 1
   path: 8/1/image_1792.png
   row: 8
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 1
   path: 8/1/image_1536.png
   row: 8
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 1
   path: 8/1/image_1280.png
   row: 8
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 1
   path: 8/1/image_1024.png
   row: 8
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 1
   path: 8/1/image_768.png
   row: 8
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 1
   path: 8/1/image_512.png
   row: 8
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 1
   path: 8/1/image_256.png
   row: 8
@@ -3714,31 +3714,31 @@
   checkpoint: 2
   path: 8/2/image_4095.png
   row: 8
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 2
   path: 8/2/image_3840.png
   row: 8
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 2
   path: 8/2/image_3584.png
   row: 8
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 2
   path: 8/2/image_3328.png
   row: 8
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 2
   path: 8/2/image_3072.png
   row: 8
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 2
   path: 8/2/image_2816.png
   row: 8
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 2
   path: 8/2/image_2560.png
   row: 8
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 2
   path: 8/2/image_2304.png
   row: 8
@@ -3746,31 +3746,31 @@
   checkpoint: 2
   path: 8/2/image_2048.png
   row: 8
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 2
   path: 8/2/image_1792.png
   row: 8
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 2
   path: 8/2/image_1536.png
   row: 8
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 2
   path: 8/2/image_1280.png
   row: 8
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 2
   path: 8/2/image_1024.png
   row: 8
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 2
   path: 8/2/image_768.png
   row: 8
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 2
   path: 8/2/image_512.png
   row: 8
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 2
   path: 8/2/image_256.png
   row: 8
@@ -3778,31 +3778,31 @@
   checkpoint: 3
   path: 8/3/image_4095.png
   row: 8
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 3
   path: 8/3/image_3840.png
   row: 8
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 3
   path: 8/3/image_3584.png
   row: 8
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 3
   path: 8/3/image_3328.png
   row: 8
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 3
   path: 8/3/image_3072.png
   row: 8
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 3
   path: 8/3/image_2816.png
   row: 8
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 3
   path: 8/3/image_2560.png
   row: 8
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 3
   path: 8/3/image_2304.png
   row: 8
@@ -3810,31 +3810,31 @@
   checkpoint: 3
   path: 8/3/image_2048.png
   row: 8
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 3
   path: 8/3/image_1792.png
   row: 8
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 3
   path: 8/3/image_1536.png
   row: 8
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 3
   path: 8/3/image_1280.png
   row: 8
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 3
   path: 8/3/image_1024.png
   row: 8
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 3
   path: 8/3/image_768.png
   row: 8
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 3
   path: 8/3/image_512.png
   row: 8
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 3
   path: 8/3/image_256.png
   row: 8
@@ -3842,31 +3842,31 @@
   checkpoint: 4
   path: 8/4/image_4095.png
   row: 8
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 4
   path: 8/4/image_3840.png
   row: 8
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 4
   path: 8/4/image_3584.png
   row: 8
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 4
   path: 8/4/image_3328.png
   row: 8
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 4
   path: 8/4/image_3072.png
   row: 8
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 4
   path: 8/4/image_2816.png
   row: 8
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 4
   path: 8/4/image_2560.png
   row: 8
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 4
   path: 8/4/image_2304.png
   row: 8
@@ -3874,31 +3874,31 @@
   checkpoint: 4
   path: 8/4/image_2048.png
   row: 8
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 4
   path: 8/4/image_1792.png
   row: 8
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 4
   path: 8/4/image_1536.png
   row: 8
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 4
   path: 8/4/image_1280.png
   row: 8
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 4
   path: 8/4/image_1024.png
   row: 8
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 4
   path: 8/4/image_768.png
   row: 8
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 4
   path: 8/4/image_512.png
   row: 8
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 4
   path: 8/4/image_256.png
   row: 8
@@ -3906,31 +3906,31 @@
   checkpoint: 5
   path: 8/5/image_4095.png
   row: 8
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 5
   path: 8/5/image_3840.png
   row: 8
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 5
   path: 8/5/image_3584.png
   row: 8
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 5
   path: 8/5/image_3328.png
   row: 8
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 5
   path: 8/5/image_3072.png
   row: 8
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 5
   path: 8/5/image_2816.png
   row: 8
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 5
   path: 8/5/image_2560.png
   row: 8
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 5
   path: 8/5/image_2304.png
   row: 8
@@ -3938,31 +3938,31 @@
   checkpoint: 5
   path: 8/5/image_2048.png
   row: 8
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 5
   path: 8/5/image_1792.png
   row: 8
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 5
   path: 8/5/image_1536.png
   row: 8
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 5
   path: 8/5/image_1280.png
   row: 8
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 5
   path: 8/5/image_1024.png
   row: 8
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 5
   path: 8/5/image_768.png
   row: 8
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 5
   path: 8/5/image_512.png
   row: 8
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 5
   path: 8/5/image_256.png
   row: 8
@@ -3970,31 +3970,31 @@
   checkpoint: 6
   path: 8/6/image_4095.png
   row: 8
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 6
   path: 8/6/image_3840.png
   row: 8
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 6
   path: 8/6/image_3584.png
   row: 8
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 6
   path: 8/6/image_3328.png
   row: 8
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 6
   path: 8/6/image_3072.png
   row: 8
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 6
   path: 8/6/image_2816.png
   row: 8
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 6
   path: 8/6/image_2560.png
   row: 8
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 6
   path: 8/6/image_2304.png
   row: 8
@@ -4002,31 +4002,31 @@
   checkpoint: 6
   path: 8/6/image_2048.png
   row: 8
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 6
   path: 8/6/image_1792.png
   row: 8
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 6
   path: 8/6/image_1536.png
   row: 8
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 6
   path: 8/6/image_1280.png
   row: 8
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 6
   path: 8/6/image_1024.png
   row: 8
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 6
   path: 8/6/image_768.png
   row: 8
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 6
   path: 8/6/image_512.png
   row: 8
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 6
   path: 8/6/image_256.png
   row: 8
@@ -4034,31 +4034,31 @@
   checkpoint: 0
   path: 9/0/image_4095.png
   row: 9
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 0
   path: 9/0/image_3840.png
   row: 9
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 0
   path: 9/0/image_3584.png
   row: 9
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 0
   path: 9/0/image_3328.png
   row: 9
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 0
   path: 9/0/image_3072.png
   row: 9
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 0
   path: 9/0/image_2816.png
   row: 9
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 0
   path: 9/0/image_2560.png
   row: 9
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 0
   path: 9/0/image_2304.png
   row: 9
@@ -4066,31 +4066,31 @@
   checkpoint: 0
   path: 9/0/image_2048.png
   row: 9
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 0
   path: 9/0/image_1792.png
   row: 9
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 0
   path: 9/0/image_1536.png
   row: 9
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 0
   path: 9/0/image_1280.png
   row: 9
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 0
   path: 9/0/image_1024.png
   row: 9
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 0
   path: 9/0/image_768.png
   row: 9
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 0
   path: 9/0/image_512.png
   row: 9
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 0
   path: 9/0/image_256.png
   row: 9
@@ -4098,31 +4098,31 @@
   checkpoint: 1
   path: 9/1/image_4095.png
   row: 9
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 1
   path: 9/1/image_3840.png
   row: 9
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 1
   path: 9/1/image_3584.png
   row: 9
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 1
   path: 9/1/image_3328.png
   row: 9
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 1
   path: 9/1/image_3072.png
   row: 9
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 1
   path: 9/1/image_2816.png
   row: 9
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 1
   path: 9/1/image_2560.png
   row: 9
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 1
   path: 9/1/image_2304.png
   row: 9
@@ -4130,31 +4130,31 @@
   checkpoint: 1
   path: 9/1/image_2048.png
   row: 9
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 1
   path: 9/1/image_1792.png
   row: 9
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 1
   path: 9/1/image_1536.png
   row: 9
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 1
   path: 9/1/image_1280.png
   row: 9
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 1
   path: 9/1/image_1024.png
   row: 9
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 1
   path: 9/1/image_768.png
   row: 9
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 1
   path: 9/1/image_512.png
   row: 9
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 1
   path: 9/1/image_256.png
   row: 9
@@ -4162,31 +4162,31 @@
   checkpoint: 2
   path: 9/2/image_4095.png
   row: 9
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 2
   path: 9/2/image_3840.png
   row: 9
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 2
   path: 9/2/image_3584.png
   row: 9
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 2
   path: 9/2/image_3328.png
   row: 9
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 2
   path: 9/2/image_3072.png
   row: 9
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 2
   path: 9/2/image_2816.png
   row: 9
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 2
   path: 9/2/image_2560.png
   row: 9
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 2
   path: 9/2/image_2304.png
   row: 9
@@ -4194,31 +4194,31 @@
   checkpoint: 2
   path: 9/2/image_2048.png
   row: 9
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 2
   path: 9/2/image_1792.png
   row: 9
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 2
   path: 9/2/image_1536.png
   row: 9
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 2
   path: 9/2/image_1280.png
   row: 9
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 2
   path: 9/2/image_1024.png
   row: 9
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 2
   path: 9/2/image_768.png
   row: 9
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 2
   path: 9/2/image_512.png
   row: 9
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 2
   path: 9/2/image_256.png
   row: 9
@@ -4226,31 +4226,31 @@
   checkpoint: 3
   path: 9/3/image_4095.png
   row: 9
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 3
   path: 9/3/image_3840.png
   row: 9
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 3
   path: 9/3/image_3584.png
   row: 9
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 3
   path: 9/3/image_3328.png
   row: 9
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 3
   path: 9/3/image_3072.png
   row: 9
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 3
   path: 9/3/image_2816.png
   row: 9
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 3
   path: 9/3/image_2560.png
   row: 9
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 3
   path: 9/3/image_2304.png
   row: 9
@@ -4258,31 +4258,31 @@
   checkpoint: 3
   path: 9/3/image_2048.png
   row: 9
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 3
   path: 9/3/image_1792.png
   row: 9
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 3
   path: 9/3/image_1536.png
   row: 9
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 3
   path: 9/3/image_1280.png
   row: 9
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 3
   path: 9/3/image_1024.png
   row: 9
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 3
   path: 9/3/image_768.png
   row: 9
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 3
   path: 9/3/image_512.png
   row: 9
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 3
   path: 9/3/image_256.png
   row: 9
@@ -4290,31 +4290,31 @@
   checkpoint: 4
   path: 9/4/image_4095.png
   row: 9
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 4
   path: 9/4/image_3840.png
   row: 9
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 4
   path: 9/4/image_3584.png
   row: 9
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 4
   path: 9/4/image_3328.png
   row: 9
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 4
   path: 9/4/image_3072.png
   row: 9
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 4
   path: 9/4/image_2816.png
   row: 9
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 4
   path: 9/4/image_2560.png
   row: 9
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 4
   path: 9/4/image_2304.png
   row: 9
@@ -4322,31 +4322,31 @@
   checkpoint: 4
   path: 9/4/image_2048.png
   row: 9
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 4
   path: 9/4/image_1792.png
   row: 9
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 4
   path: 9/4/image_1536.png
   row: 9
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 4
   path: 9/4/image_1280.png
   row: 9
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 4
   path: 9/4/image_1024.png
   row: 9
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 4
   path: 9/4/image_768.png
   row: 9
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 4
   path: 9/4/image_512.png
   row: 9
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 4
   path: 9/4/image_256.png
   row: 9
@@ -4354,31 +4354,31 @@
   checkpoint: 5
   path: 9/5/image_4095.png
   row: 9
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 5
   path: 9/5/image_3840.png
   row: 9
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 5
   path: 9/5/image_3584.png
   row: 9
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 5
   path: 9/5/image_3328.png
   row: 9
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 5
   path: 9/5/image_3072.png
   row: 9
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 5
   path: 9/5/image_2816.png
   row: 9
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 5
   path: 9/5/image_2560.png
   row: 9
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 5
   path: 9/5/image_2304.png
   row: 9
@@ -4386,31 +4386,31 @@
   checkpoint: 5
   path: 9/5/image_2048.png
   row: 9
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 5
   path: 9/5/image_1792.png
   row: 9
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 5
   path: 9/5/image_1536.png
   row: 9
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 5
   path: 9/5/image_1280.png
   row: 9
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 5
   path: 9/5/image_1024.png
   row: 9
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 5
   path: 9/5/image_768.png
   row: 9
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 5
   path: 9/5/image_512.png
   row: 9
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 5
   path: 9/5/image_256.png
   row: 9
@@ -4418,31 +4418,31 @@
   checkpoint: 6
   path: 9/6/image_4095.png
   row: 9
-- angle: 5.890486225480862
+- angle: 0.39269908169872414
   checkpoint: 6
   path: 9/6/image_3840.png
   row: 9
-- angle: 5.497787143782138
+- angle: 0.7853981633974483
   checkpoint: 6
   path: 9/6/image_3584.png
   row: 9
-- angle: 5.105088062083414
+- angle: 1.1780972450961724
   checkpoint: 6
   path: 9/6/image_3328.png
   row: 9
-- angle: 4.71238898038469
+- angle: 1.5707963267948966
   checkpoint: 6
   path: 9/6/image_3072.png
   row: 9
-- angle: 4.319689898685965
+- angle: 1.9634954084936207
   checkpoint: 6
   path: 9/6/image_2816.png
   row: 9
-- angle: 3.9269908169872414
+- angle: 2.356194490192345
   checkpoint: 6
   path: 9/6/image_2560.png
   row: 9
-- angle: 3.5342917352885173
+- angle: 2.748893571891069
   checkpoint: 6
   path: 9/6/image_2304.png
   row: 9
@@ -4450,31 +4450,31 @@
   checkpoint: 6
   path: 9/6/image_2048.png
   row: 9
-- angle: 2.748893571891069
+- angle: 3.5342917352885173
   checkpoint: 6
   path: 9/6/image_1792.png
   row: 9
-- angle: 2.356194490192345
+- angle: 3.9269908169872414
   checkpoint: 6
   path: 9/6/image_1536.png
   row: 9
-- angle: 1.9634954084936211
+- angle: 4.319689898685965
   checkpoint: 6
   path: 9/6/image_1280.png
   row: 9
-- angle: 1.5707963267948966
+- angle: 4.71238898038469
   checkpoint: 6
   path: 9/6/image_1024.png
   row: 9
-- angle: 1.178097245096172
+- angle: 5.105088062083414
   checkpoint: 6
   path: 9/6/image_768.png
   row: 9
-- angle: 0.7853981633974483
+- angle: 5.497787143782138
   checkpoint: 6
   path: 9/6/image_512.png
   row: 9
-- angle: 0.3926990816987246
+- angle: 5.890486225480862
   checkpoint: 6
   path: 9/6/image_256.png
   row: 9
