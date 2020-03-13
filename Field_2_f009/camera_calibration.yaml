@@ -1,0 +1,20 @@
+image_width: 640
+image_height: 480
+camera_name: camera_logitech
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [642.994215106161, 0.0, 332.4298678928328, 0.0, 642.9122003816368, 243.1656755561498, 0.0, 0.0, 1.0]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [0.038407151488396254, -0.10628520564849339, 0.0017654943234380585, 0.0005068147831204422, 0.0]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 1.0]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [644.9824829101562, 0.0, 332.7709619413472, 0.0, 0.0, 645.2481079101562, 243.6966923896216, 0.0, 0.0, 0.0, 1.0, 0.0]
